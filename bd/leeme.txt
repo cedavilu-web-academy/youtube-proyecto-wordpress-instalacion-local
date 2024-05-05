@@ -1,0 +1,11 @@
+Usuario y contraseña de la base de datos:
+usuario: root
+contraseña: No colocar nada (No le puse clave)
+
+Usuario y contraseña para ingresar y administrar el 
+WordPress
+
+http://localhost/youtube-proyecto/wp-admin/
+
+Usuario: cedaviluwebacademy
+Contraseña: Webacademy2024*
